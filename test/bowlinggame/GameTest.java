@@ -8,8 +8,7 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 /**
- *
- * @author erosol
+ * @author Kai Hempel
  */
 public class GameTest {
 
@@ -60,7 +59,7 @@ public class GameTest {
     }
 
     /**
-     *
+     * Test all rolls with zero pins
      */
     @Test
     public void testGutterGame() {
@@ -71,7 +70,7 @@ public class GameTest {
     }
 
     /**
-     *
+     * Test all rolls with one pin
      */
     @Test
     public void testAllOne() {
@@ -82,7 +81,7 @@ public class GameTest {
     }
 
     /**
-     *
+     * Test spare roll
      */
     @Test
     public void testOneSpare() {
@@ -93,7 +92,7 @@ public class GameTest {
     }
 
     /**
-     *
+     * Test strike roll
      */
     @Test
     public void testOneStrike() {
@@ -105,7 +104,7 @@ public class GameTest {
     }
 
     /**
-     *
+     * Test all strikes
      */
     @Test
     public void testPerfectGame() {

@@ -8,8 +8,7 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 /**
- *
- * @author erosol
+ * @author Kai Hempel
  */
 public class BowlingGameTest {
 

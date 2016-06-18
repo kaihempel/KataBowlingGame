@@ -8,8 +8,7 @@ import org.junit.runner.RunWith;
 import org.junit.runners.Suite;
 
 /**
- *
- * @author erosol
+ * @author Kai Hempel
  */
 @RunWith(Suite.class)
 @Suite.SuiteClasses({bowlinggame.BowlingGameTest.class})
